@@ -10,3 +10,4 @@ This repository was created while learning Git step by step.
 - Working with GitHub
 
 **Status**: Ready for Pull Requests! ??
+-e "\n## Rebase Demo\nI learned rebase in Lesson 4!" 

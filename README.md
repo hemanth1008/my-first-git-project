@@ -1,3 +1,12 @@
-"# Hello Git World! ??" 
--e "\nThis is my first Git project.\nI am learning from zero to hero with my sensei." 
--e "\n\nAdded on $(date)" 
+# My First Git Project
+
+## Learning Git 
+
+This repository was created while learning Git step by step.
+
+### What I have learned so far:
+- git init, add, commit, push
+- Branching and merging
+- Working with GitHub
+
+**Status**: Ready for Pull Requests! ??
